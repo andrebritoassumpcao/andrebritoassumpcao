@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou em busca de um primeiro emprego na area
-- 🌱 Estou atualmente estudando Java Script e React
+- 🌱 Estou atualmente estudando Java Script e React.js
 - 📧 Contate-me pelo email: andrebritoassumpcao@outlook.com
 - 😄 Pronomes: Ele/Dele
 
