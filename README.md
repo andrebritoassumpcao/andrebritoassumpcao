@@ -7,6 +7,7 @@
 - 🌱 Estou atualmente estudando React.js
 - 📧 Contate-me pelo email: andrebritoassumpcao@outlook.com
 - 😄 Pronomes: Ele/Dele
+- 📜 Meu Portfólio: https://andrebritoassumpcao.github.io/portifolio-andre-luiz-brito/
 
 <div align="center">
   <a href="https://github.com/andrebritoassumpcao">
