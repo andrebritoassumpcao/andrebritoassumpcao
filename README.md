@@ -7,7 +7,7 @@
 - 🌱 Estou atualmente estudando C# 
 - 📧 Contate-me pelo email: andrebritoassumpcao@outlook.com
 - 😄 Pronomes: Ele/Dele
-- 📜 Meu Portfólio: https://andrebritoassumpcao.github.io/portifolio-andre-luiz-brito/
+- 📜 Meu Portfólio: https://andrebritoassumpcao.github.io/portfolio-andre-luiz-brito/
 
 <div align="center">
   <a href="https://github.com/andrebritoassumpcao">
