@@ -24,7 +24,7 @@
   <img align="center" alt="Andre-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Andre-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 
-![Snake animation](https://github.com/andrebritoassumpcao/andrebritoassumpcao/blob/output/github-contribution-grid-snake.svg) 
+![Snake animation](https://github.com/andrebritoassumpcao/andrebritoassumpcao/blob/output/github-contribution-grid-snake.svg)
 
 </div>
   
