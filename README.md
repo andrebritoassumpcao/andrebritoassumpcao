@@ -5,7 +5,7 @@
 
 - 🔭 Estou em busca de um primeiro emprego como desenvolvedor Front-End
 - 🌱 Estou atualmente estudando C# 
-- 📧 Contate-me pelo email: andrebritoassumpcao@outlook.com
+- 📧 Contate-me pelo email: andrebrito.monsores@outlook.com
 - 😄 Pronomes: Ele/Dele
 - 📜 Meu Portfólio: https://andrebritoassumpcao.github.io/portfolio-andre-luiz-brito/
 
