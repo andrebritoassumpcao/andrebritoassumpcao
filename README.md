@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D03DF7&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9+Luiz+Brito+%F0%9F%91%8B)](https://git.io/typing-svg)
 - 🔭 Atuo como Desenvolvedor Full-Stack na Squadra Digital
-- 📧 Contate-me pelo email: andrebrito.monsores@outlook.com
+- 📧 Contate-me pelo email: debritomonsores@outlook.com
 - 😄 Pronomes: Ele/Dele
 - 📜 Meu Portfólio: https://andrebritoassumpcao.github.io/portfolio-andre-luiz-brito/
 ###
